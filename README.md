@@ -90,6 +90,12 @@ The authors sincerely acknowledge the access granted to the [Bonna computing clu
 
 All acknowledgments are associated with research that was partially funded by the [BONFOR](https://www.medfak.uni-bonn.de/de/forschung/forschungsfoerderung/bonfor/bonfor-forschungsfoerderprogramm) and the FKS study support program [2021-FKS-12] of the [University Hospital Bonn](https://www.ukbonn.de/). This research did not receive any additional grants from funding agencies in the public, commercial, or not-for-profit sectors.
 
+## Support
+
+If you find this project useful, you can support independent development here:
+
+☕ [Buy me a coffee](https://buymeacoffee.com/maxkayser)
+
 ## Disclaimer
 
 The ECTMetrics is intended for research purposes only and does not constitute a medical product. It is neither designed nor certified for medical use (e.g., treatment of humans or living beings, clinical decision-making). The toolbox is provided "as is", without warranty of any kind, express or implied, including, but not limited to, warranties of merchantability, fitness for a particular purpose, or noninfringement.
